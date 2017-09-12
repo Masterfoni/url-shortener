@@ -6,7 +6,7 @@ This is a simple url shortener webpage using python and django.
 3. Access localhost:8000 using a browser
 4. Inside the input field, type an url following these patterns: "www.*" or "http://*"
 5. Click in "encurtar", an url will be generated just below the input that can be utilized to go to the destination informed by the user
-
+-------------------------------------------------------------------------------------------
 1. Para rodar o projeto: 
 2. Dentro de um virtualenv executar "python manage.py runserver"
 3. Acessar localhost:8000
