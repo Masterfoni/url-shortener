@@ -1,10 +1,10 @@
 # URL Shortener
 This is a simple url shortener webpage using python and django.
 
-1. To run project:
-2. Inside a virtualenv execute the following command "python manage.py runserver"
+1. To run the project:
+2. Inside a virtualenv, execute the following command "python manage.py runserver"
 3. Access localhost:8000 using a browser
-4. Inside input, type an url following these patterns: "www.*" or "http://*"
+4. Inside the input field, type an url following these patterns: "www.*" or "http://*"
 5. Click in "encurtar", an url will be generated just below the input that can be utilized to go to the destination informed by the user
 
 1. Para rodar o projeto: 
